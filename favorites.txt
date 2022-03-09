@@ -1,3 +1,12 @@
+Food:
+
 Biryani
 Pizza
 Chinese
+
+Movies:
+
+Life of Pi
+Batman
+Mission Impossible
+
